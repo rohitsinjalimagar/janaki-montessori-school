@@ -1190,11 +1190,11 @@
 
             function payWithEsewa() {
                  var esewaParams = {
-                     amt: 1000,          
+                     amt: 5000,          
                      psc: 0,            
                      pdc: 0,            
                      txAmt: 0,          
-                     tAmt: 1000,         
+                     tAmt: 50,         
                      pid: "miniland_fee_" + new Date().getTime(), 
                      scd: "EPAYTEST",    
                      su: window.location.origin + window.location.pathname + "?payment_status=esewa_success", 
