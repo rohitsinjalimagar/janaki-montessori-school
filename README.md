@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Miniland Academy English School in Kerabari 7, Dangi, Morang offers quality education from Play Group to Class 9. Morality, Discipline & Quality Education is Our Supreme Ambition.">
+    <meta name="description" content="free fire khelega school in Kerabari 7, Dangi, Morang offers quality education from Play Group to Class 9. Morality, Discipline & Quality Education is Our Supreme Ambition.">
     <title>Miniland Academy English School</title>
 
     <link rel="icon" href="images/favicon.png" type="image/png">
@@ -1063,7 +1063,7 @@
             </div>
             <div class="developer">
                 <!-- Color changed to white via CSS -->
-                <p>Designed & Developed By <a href="https://ramanbhandari.com.np/" target="_blank" rel="noopener noreferrer">Raman Bhandari</a> - Former Student</p>
+                <p>Designed & Developed By <a href="https://ramanbhandari.com.np/" target="_blank" rel="noopener noreferrer">Mr.vadaz bhai </a> - Former Student</p>
             </div>
         </div>
     </footer>
